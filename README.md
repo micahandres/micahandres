@@ -14,6 +14,6 @@
 [<img align="left" alt="MicahAndres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/micah._.andres/
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/micah-andres213/)
+[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/micah-andres213/
 
 <!--
