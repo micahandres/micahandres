@@ -8,12 +8,8 @@
 
 📫 I love meeting new people, so please feel free to reach me at msanandres@ucsd.edu! :)
 
-<h2> Connect with me!</h2>
-
-[<img align="left" alt="MicahAndres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MicahAndres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/micah._.andres/
-[linkedin]: https://www.linkedin.com/in/micah-andres213/
-
-<!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/micah-andres213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micah-andres213" height="30" width="40" /></a>
+<a href="https://instagram.com/micah._.andres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="micah._.andres" height="30" width="40" /></a>
+</p>
