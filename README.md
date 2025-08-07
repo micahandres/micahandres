@@ -1,4 +1,4 @@
-<h1>Mikaela Andres </h1>
+<h1>Mikaela San Andres </h1>
  
 🔭 I currently do research at Brown University as part of the Visual Computing Lab that focuses machine learning, specifically in regards to Computer Vision. I have done research at National University of Singapore <a href="https://aicet.comp.nus.edu.sg/">AI Centre for Educational Technologies</a> (AICET), where I developed conversational AI agents engaging in dialogue conversation with each other and understanding the adapability of AI agents in conversational speech. Additionally, I have conducted research at Carnegie Mellon University at the <a href="https://hcii.cmu.edu/">Human-Computer Interaction Institute</a> as part of the Teledia Lab.
 
