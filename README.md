@@ -1,6 +1,6 @@
 <h1>Micah Andres </h1>
  
-🔭 I currently do research at Brown University as part of the Visual Computing Lab that focuses machine learning, specifically in regards to Computer Vision. I have done research at National University of Singapore <a href="https://aicet.comp.nus.edu.sg/">AI Centre for Educational Technologies</a> (AICET), where I developed conversational AI agents engaging in dialogue conversation with each other and understanding the adapability of AI agents in conversational speech. Additionally, I have conducted research at Carnegie Mellon University at the <a href="https://hcii.cmu.edu/">Human-Computer Interaction Institute</a> as part of the Teledia Lab.
+🔭 I conduct research at Brown University as part of the Visual Computing Lab that focuses Computer Vision, specifically in regards to improving semantic accuracy of image segmentation neural networks. I have done research at National University of Singapore <a href="https://aicet.comp.nus.edu.sg/">AI Centre for Educational Technologies</a> (AICET), where I developed conversational AI agents engaging in dialogue conversation with each other and understanding the adapability of AI agents in conversational speech. Additionally, I have conducted research at Carnegie Mellon University at the <a href="https://hcii.cmu.edu/">Human-Computer Interaction Institute</a> as part of the Teledia Lab.
 
 📗 Some of my personal research interests are focused on Applied Machine Learning, Human-Centered AI, User-Centered Frameworks, and Conversational Agents.
 
